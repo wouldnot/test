@@ -1,2 +1,2 @@
 # test
-learngit
+learn git
